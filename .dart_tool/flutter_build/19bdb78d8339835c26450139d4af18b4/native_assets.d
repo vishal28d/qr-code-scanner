@@ -1,0 +1,1 @@
+ C:\\Users\\visha\\OneDrive\\Desktop\\App\ Dev\\qr_code_scanner\\.dart_tool\\flutter_build\\19bdb78d8339835c26450139d4af18b4\\native_assets.yaml: 
